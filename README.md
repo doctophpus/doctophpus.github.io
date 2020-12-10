@@ -14,5 +14,5 @@
 ## Documents
 https://jekyll-rtd-theme.rundocs.io
 
-## License
+## License 
 The theme is available as open source under the terms of the [MIT License](https://github.com/rundocs/jekyll-rtd-theme/blob/master/LICENSE)
